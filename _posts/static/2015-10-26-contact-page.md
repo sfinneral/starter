@@ -1,9 +1,10 @@
 ---
 layout: page
-permalink: ""
+permalink: /contact
 published: false
 title: Contact Page
 ---
+
 
 ## This is the contact page
 
